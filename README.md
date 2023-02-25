@@ -29,9 +29,9 @@
 
 💻 下载地址：
 
-[https://aichatgpt.me/imgup](https://aichatgpt.me/imgup) （实时更新）
+https://aichatgpt.me/imgup （实时更新）
 
-[https://www.icloud.com/shortcuts/bb98b60fee354b08820ab3a5c3c18052](https://www.icloud.com/shortcuts/bb98b60fee354b08820ab3a5c3c18052)（iCloud）
+https://www.icloud.com/shortcuts/38213d55b1c64a92b3f23d2867754368（iCloud）
 
 ### 网页版
 
